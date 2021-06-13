@@ -1,3 +1,7 @@
+# Latest version is maintained here: https://github.com/filedescriptor/untrusted-types/
+
+<br><br><br>
+
 # Untrusted Types for DevTools
 Untrusted Types is a Chrome extension that abuses [Trusted Types](https://w3c.github.io/webappsec-trusted-types/dist/spec/) to log DOMXSS sinks. 
 
